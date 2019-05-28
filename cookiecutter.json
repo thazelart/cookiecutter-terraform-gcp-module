@@ -1,0 +1,6 @@
+{
+  "full_name": "author or team",
+  "github_user": "github user or github organization name",
+  "module_name": "tf-mod-name",
+  "short_description": "A Terraform Module"
+}
